@@ -15,7 +15,10 @@ The course is built in Articulate Rise and exported as a static web package, ser
 Live URL: http://makingbetterfutures.org/oxygen-101
 
 No LMS is used — there is no completion tracking or user data collection.
-Hosting the course yourself
+
+
+**Hosting the course yourself**
+
 If you would like to host this course on your own LMS or website, a SCORM-compatible version is available on request. Please contact the Oxygen CoLab team to obtain a copy. The course can be deployed on any SCORM 1.2 or SCORM 2004-compliant platform.
 
 
